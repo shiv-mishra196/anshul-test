@@ -1,0 +1,94 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 51d2d17 (code deploy)
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events*.json
+
+# IDEs and editors
+/.idea
+<<<<<<< HEAD
+=======
+=======
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+>>>>>>> bd52847 (upload-code)
+>>>>>>> 51d2d17 (code deploy)
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+<<<<<<< HEAD
+# IDE - VSCode
+=======
+<<<<<<< HEAD
+# IDE - VSCode
+=======
+# Visual Studio Code
+>>>>>>> bd52847 (upload-code)
+>>>>>>> 51d2d17 (code deploy)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 51d2d17 (code deploy)
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+<<<<<<< HEAD
+=======
+=======
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+>>>>>>> bd52847 (upload-code)
+>>>>>>> 51d2d17 (code deploy)
+.DS_Store
+Thumbs.db
